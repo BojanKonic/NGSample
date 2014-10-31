@@ -1,0 +1,3 @@
+c:\users\bojan\documents\visual studio 2013\Projects\NGSample\NGSample\bin\Debug\NGSample.pdb
+c:\users\bojan\documents\visual studio 2013\Projects\NGSample\NGSample\obj\Debug\NGSample.dll
+c:\users\bojan\documents\visual studio 2013\Projects\NGSample\NGSample\obj\Debug\NGSample.pdb

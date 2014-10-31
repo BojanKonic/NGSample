@@ -1,0 +1,33 @@
+﻿/* Place custom styles below */
+.results {
+    width: 1400px;
+    display: block;
+    margin-left: 185px;
+    margin-right: auto;
+}
+
+.result {
+    background-color: rgba(235, 235, 235, 1);
+    margin: 15px;
+    padding: 10px;
+    width: 400px;
+    height: 150px;
+    float: left;
+}
+.result img {
+    padding-top: 10px;
+}
+
+.search {
+    width: 100%;
+}
+
+input.queryBox {
+    width: 1305px;
+    margin-left: 200px;
+    margin-right: auto;
+    display: block;
+    border-width: 3px;
+    font-size: 18px;
+}
+
